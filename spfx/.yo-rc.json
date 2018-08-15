@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "spfx",
+    "libraryId": "ea1a1691-61c7-4ece-b5fe-128025a9f964",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
